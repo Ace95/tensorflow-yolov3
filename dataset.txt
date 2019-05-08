@@ -1,0 +1,197 @@
+./s3_dataset/images/fire-1.bmp 348 8 631 377 0
+./s3_dataset/images/fire-2.bmp 585 89 681 296 0
+./s3_dataset/images/fire-3.bmp 186 9 383 253 0
+./s3_dataset/images/fire-4.bmp 296 2 606 158 0
+./s3_dataset/images/fire-5.bmp 737 28 1260 495 0
+./s3_dataset/images/fire-6.bmp 268 5 607 130 0
+./s3_dataset/images/fire-7.bmp 315 125 702 517 0
+./s3_dataset/images/fire-8.bmp 22 249 195 364 0
+./s3_dataset/images/fire-9.bmp 343 70 691 547 0
+./s3_dataset/images/fire-10.bmp 129 77 253 242 0
+./s3_dataset/images/fire-11.bmp 340 35 639 438 0
+./s3_dataset/images/fire-12.bmp 214 15 609 422 0
+./s3_dataset/images/fire-13.bmp 192 15 747 695 0
+./s3_dataset/images/fire-14.bmp 148 29 524 377 0
+./s3_dataset/images/fire-15.bmp 344 100 508 213 0 546 61 678 210 0
+./s3_dataset/images/fire-16.bmp 258 119 461 256 0
+./s3_dataset/images/fire-17.bmp 210 5 235 187 0 248 19 363 301 0
+./s3_dataset/images/fire-18.bmp 83 23 167 113 0
+./s3_dataset/images/fire-19.bmp 746 231 1095 681 0
+./s3_dataset/images/fire-20.bmp 141 2 451 561 0
+./s3_dataset/images/fire-21.bmp 51 12 234 264 0
+./s3_dataset/images/fire-22.bmp 284 143 407 251 0
+./s3_dataset/images/fire-23.bmp 79 38 360 239 0
+./s3_dataset/images/fire-24.bmp 372 238 443 378 0
+./s3_dataset/images/fire-25.bmp 248 56 403 267 0
+./s3_dataset/images/fire-26.bmp 180 86 242 158 0
+./s3_dataset/images/fire-27.bmp 448 274 523 464 0 582 283 693 469 0 720 309 769 397 0
+./s3_dataset/images/fire-28.bmp 103 42 265 382 0
+./s3_dataset/images/fire-29.bmp 330 146 518 291 0
+./s3_dataset/images/fire-30.bmp 67 50 340 226 0
+./s3_dataset/images/fire-31.bmp 140 28 429 253 0
+./s3_dataset/images/fire-32.bmp 331 42 699 337 0
+./s3_dataset/images/fire-33.bmp 79 12 322 259 0
+./s3_dataset/images/fire-34.bmp 54 34 324 264 0
+./s3_dataset/images/fire-35.bmp 674 67 1259 561 0
+./s3_dataset/images/fire-36.bmp 411 120 535 292 0
+./s3_dataset/images/fire-37.bmp 413 56 827 624 0
+./s3_dataset/images/fire-38.bmp 252 12 520 393 0
+./s3_dataset/images/fire-39.bmp 85 20 595 484 0
+./s3_dataset/images/fire-40.bmp 493 318 629 458 0 305 258 368 360 0
+./s3_dataset/images/fire-41.bmp 71 3 382 467 0
+./s3_dataset/images/fire-42.bmp 285 148 602 596 0
+./s3_dataset/images/fire-43.bmp 651 79 815 257 0
+./s3_dataset/images/fire-44.bmp 552 105 716 372 0 218 313 342 492 0 380 393 615 554 0
+./s3_dataset/images/fire-45.bmp 515 414 749 687 0
+./s3_dataset/images/fire-46.bmp 129 33 237 299 0 282 220 359 326 0
+./s3_dataset/images/fire-47.bmp 222 60 320 190 0
+./s3_dataset/images/fire-48.bmp 97 4 549 340 0
+./s3_dataset/images/fire-49.bmp 608 22 903 575 0
+./s3_dataset/images/fire-50.bmp 75 136 300 361 0
+./s3_dataset/images/fire-51.bmp 244 21 507 267 0
+./s3_dataset/images/fire-52.bmp 581 437 679 588 0
+./s3_dataset/images/fire-53.bmp 372 45 688 298 0
+./s3_dataset/images/fire-54.bmp 304 32 450 337 0
+./s3_dataset/images/fire-55.bmp 233 176 418 234 0 217 4 422 123 0
+./s3_dataset/images/fire-56.bmp 105 33 263 378 0
+./s3_dataset/images/fire-57.bmp 4 105 229 269 0
+./s3_dataset/images/fire-58.bmp 655 53 926 594 0 7 31 425 595 0
+./s3_dataset/images/fire-59.bmp 115 2 305 214 0
+./s3_dataset/images/fire-60.bmp 389 198 516 348 0
+./s3_dataset/images/fire-61.bmp 879 406 1018 635 0
+./s3_dataset/images/fire-62.bmp 339 155 493 339 0
+./s3_dataset/images/fire-63.bmp 232 156 475 327 0
+./s3_dataset/images/fire-64.bmp 135 93 362 477 0
+./s3_dataset/images/fire-65.bmp 87 6 181 138 0
+./s3_dataset/images/fire-66.bmp 329 132 507 294 0
+./s3_dataset/images/fire-67.bmp 313 15 423 311 0
+./s3_dataset/images/fire-68.bmp 495 220 1201 635 0
+./s3_dataset/images/fire-69.bmp 114 4 284 239 0
+./s3_dataset/images/fire-70.bmp 448 77 797 526 0
+./s3_dataset/images/fire-71.bmp 179 5 605 361 0
+./s3_dataset/images/fire-72.bmp 355 539 427 680 0
+./s3_dataset/images/fire-73.bmp 99 0 525 298 0
+./s3_dataset/images/fire-74.bmp 360 4 575 375 0
+./s3_dataset/images/fire-75.bmp 360 4 194 43 0 62 1 177 44 0
+./s3_dataset/images/fire-76.bmp 303 74 469 343 0
+./s3_dataset/images/fire-77.bmp 45 8 289 220 0
+./s3_dataset/images/fire-78.bmp 35 88 239 313 0
+./s3_dataset/images/fire-79.bmp 13 461 349 596 0 517 377 587 499 0 255 384 309 451 0 356 496 565 624 0
+./s3_dataset/images/fire-80.bmp 7 1 295 196 0
+./s3_dataset/images/fire-82.bmp 698 16 1032 730 0
+./s3_dataset/images/fire-83.bmp 301 6 681 398 0
+./s3_dataset/images/fire-84.bmp 79 9 291 270 0
+./s3_dataset/images/fire-85.bmp 13 20 305 155 0
+./s3_dataset/images/fire-86.bmp 529 212 799 613 0
+./s3_dataset/images/fire-87.bmp 13 21 146 221 0
+./s3_dataset/images/fire-88.bmp 72 8 232 146 0
+./s3_dataset/images/fire-89.bmp 415 266 639 476 0
+./s3_dataset/images/fire-90.bmp 258 2 386 235 0 600 48 711 219 0
+./s3_dataset/images/fire-91.bmp 134 611 290 795 0
+./s3_dataset/images/fire-92.bmp 553 181 720 325 0
+./s3_dataset/images/fire-93.bmp 553 181 708 355 0 322 2 639 371 0
+./s3_dataset/images/fire-94.bmp 102 2 173 132 0
+./s3_dataset/images/fire-95.bmp 373 10 1044 494 0
+./s3_dataset/images/fire-96.bmp 209 82 331 212 0
+./s3_dataset/images/fire-97.bmp 453 8 737 281 0
+./s3_dataset/images/fire-98.bmp 75 58 157 228 0
+./s3_dataset/images/fire-99.bmp 552 34 707 110 0 596 407 673 465 0
+./s3_dataset/images/fire-100.bmp 157 31 407 356 0
+./s3_dataset/images/fire-101.bmp 178 62 358 233 0
+./s3_dataset/images/fire-102.bmp 41 115 273 235 0 403 97 488 154 0
+./s3_dataset/images/fire-103.bmp 289 563 557 782 0
+./s3_dataset/images/fire-104.bmp 147 62 334 199 0
+./s3_dataset/images/fire-105.bmp 203 181 416 342 0
+./s3_dataset/images/fire-106.bmp 65 40 186 230 0
+./s3_dataset/images/fire-107.bmp 129 20 453 266 0
+./s3_dataset/images/fire-108.bmp 144 6 244 176 0
+./s3_dataset/images/fire-109.bmp 254 137 515 429 0
+./s3_dataset/images/fire-110.bmp 141 24 629 276 0 331 370 519 653 0
+./s3_dataset/images/fire-111.bmp 196 26 549 338 0
+./s3_dataset/images/fire-112.bmp 80 24 229 160 0
+./s3_dataset/images/fire-113.bmp 188 88 331 220 0
+./s3_dataset/images/fire-114.bmp 1234 271 1410 570 0
+./s3_dataset/images/fire-115.bmp 168 488 476 776 0
+./s3_dataset/images/fire-116.bmp 281 78 367 272 0
+./s3_dataset/images/fire-117.bmp 186 17 354 287 0
+./s3_dataset/images/fire-118.bmp 314 412 519 720 0
+./s3_dataset/images/fire-119.bmp 280 62 337 246 0
+./s3_dataset/images/fire-120.bmp 114 276 306 527 0
+./s3_dataset/images/fire-121.bmp 94 101 212 213 0
+./s3_dataset/images/fire-123.bmp 237 126 377 244 0 77 215 99 257 0 464 34 567 278 0
+./s3_dataset/images/fire-124.bmp 774 481 906 711 0
+./s3_dataset/images/fire-125.bmp 10 9 178 237 0
+./s3_dataset/images/fire-126.bmp 194 32 678 389 0
+./s3_dataset/images/fire-127.bmp 18 49 123 212 0
+./s3_dataset/images/fire-128.bmp 131 358 300 687 0 330 118 626 792 0 20 698 300 787 0
+./s3_dataset/images/fire-129.bmp 518 114 802 570 0
+./s3_dataset/images/fire-130.bmp 232 168 279 213 0 300 171 376 217 0
+./s3_dataset/images/fire-131.bmp 252 20 672 375 0
+./s3_dataset/images/fire-132.bmp 676 436 854 680 0
+./s3_dataset/images/fire-133.bmp 225 7 520 362 0 82 196 234 401 0
+./s3_dataset/images/fire-134.bmp 11 8 231 282 0
+./s3_dataset/images/fire-135.bmp 80 376 222 484 0
+./s3_dataset/images/fire-136.bmp 289 96 571 398 0
+./s3_dataset/images/fire-137.bmp 232 16 352 383 0 428 69 568 254 0
+./s3_dataset/images/fire-138.bmp 68 70 257 332 0 346 28 594 290 0
+./s3_dataset/images/fire-139.bmp 933 77 1103 565 0
+./s3_dataset/images/fire-140.bmp 6 278 174 460 0 261 44 555 461 0 590 65 986 444 0
+./s3_dataset/images/fire-141.bmp 505 234 629 530 0
+./s3_dataset/images/fire-142.bmp 204 5 309 86 0 196 310 435 513 0 508 407 701 524 0
+./s3_dataset/images/fire-143.bmp 7 109 127 239 0 235 74 302 116 0 288 159 397 291 0 198 166 251 324 0 213 487 324 578 0
+./s3_dataset/images/fire-144.bmp 186 92 504 344 0
+./s3_dataset/images/fire-145.bmp 380 6 668 350 0 206 160 311 506 0
+./s3_dataset/images/fire-146.bmp 10 4 86 125 0 94 90 162 170 0
+./s3_dataset/images/fire-147.bmp 143 19 258 211 0
+./s3_dataset/images/fire-148.bmp 121 252 701 526 0
+./s3_dataset/images/fire-149.bmp 160 16 381 495 0
+./s3_dataset/images/fire-150.bmp 289 146 426 285 0
+./s3_dataset/images/fire-151.bmp 219 208 314 322 0
+./s3_dataset/images/fire-152.bmp 125 0 221 82 0
+./s3_dataset/images/fire-153.bmp 60 27 280 226 0
+./s3_dataset/images/fire-154.bmp 464 17 1006 454 0
+./s3_dataset/images/fire-155.bmp 6 7 283 372 0
+./s3_dataset/images/fire-156.bmp 453 87 628 165 0
+./s3_dataset/images/fire-157.bmp 153 139 431 301 0
+./s3_dataset/images/fire-158.bmp 81 58 126 128 0
+./s3_dataset/images/fire-159.bmp 119 78 237 234 0
+./s3_dataset/images/fire-160.bmp 89 6 187 168 0
+./s3_dataset/images/fire-161.bmp 124 87 244 238 0
+./s3_dataset/images/fire-162.bmp 155 32 158 39 0 141 60 304 215 0
+./s3_dataset/images/fire-163.bmp 525 402 616 480 0
+./s3_dataset/images/fire-164.bmp 15 183 235 506 0
+./s3_dataset/images/fire-165.bmp 183 146 255 179 0 316 54 398 178 0
+./s3_dataset/images/fire-166.bmp 227 14 420 396 0
+./s3_dataset/images/fire-167.bmp 40 34 158 335 0
+./s3_dataset/images/fire-168.bmp 24 482 372 723 0 694 434 834 630 0
+./s3_dataset/images/fire-169.bmp 112 525 442 785 0
+./s3_dataset/images/fire-170.bmp 180 10 531 478 0
+./s3_dataset/images/fire-171.bmp 88 0 192 185 0
+./s3_dataset/images/fire-172.bmp 96 47 388 732 0
+./s3_dataset/images/fire-173.bmp 17 16 274 162 0
+./s3_dataset/images/fire-174.bmp 53 126 258 357 0
+./s3_dataset/images/fire-175.bmp 152 89 237 214 0
+./s3_dataset/images/fire-176.bmp 92 8 521 396 0
+./s3_dataset/images/fire-177.bmp 131 58 719 347 0
+./s3_dataset/images/fire-178.bmp 273 168 377 316 0
+./s3_dataset/images/fire-179.bmp 919 57 1068 256 0
+./s3_dataset/images/fire-180.bmp 272 39 609 550 0
+./s3_dataset/images/fire-181.bmp 78 49 539 327 0
+./s3_dataset/images/fire-182.bmp 28 78 501 254 0
+./s3_dataset/images/fire-183.bmp 141 22 451 272 0
+./s3_dataset/images/fire-185.bmp 9 9 179 277 0
+./s3_dataset/images/fire-186.bmp 184 32 359 233 0
+./s3_dataset/images/fire-187.bmp 101 251 203 539 0
+./s3_dataset/images/fire-188.bmp 314 12 651 289 0
+./s3_dataset/images/fire-189.bmp 71 1 211 161 0
+./s3_dataset/images/fire-190.bmp 192 45 590 467 0
+./s3_dataset/images/fire-191.bmp 478 217 603 429 0
+./s3_dataset/images/fire-192.bmp 224 8 431 271 0 99 186 183 312 0
+./s3_dataset/images/fire-193.bmp 49 136 187 324 0
+./s3_dataset/images/fire-194.bmp 94 123 295 268 0 347 45 557 319 0
+./s3_dataset/images/fire-195.bmp 22 91 56 137 0 46 83 72 135 0 79 85 186 152 0 190 59 243 124 0
+./s3_dataset/images/fire-196.bmp 222 9 448 233 0
+./s3_dataset/images/fire-197.bmp 211 93 333 213 0
+./s3_dataset/images/fire-198.bmp 140 25 409 231 0
+./s3_dataset/images/fire-199.bmp 14 215 111 359 0 239 184 710 373 0
+./s3_dataset/images/fire-200.bmp 41 102 278 211 0
